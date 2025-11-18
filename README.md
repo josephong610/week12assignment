@@ -94,7 +94,13 @@ Features:
 
 # Demo Video
 A `.mp4` demo is included in the repo showing the dashboard updating with real-time data.
-https://github.com/josephong610/week12assignment/blob/main/video.mp4
+## 🎥 Demo Video
+
+<video width="600" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
