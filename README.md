@@ -93,13 +93,10 @@ Features:
 ---
 
 # Demo Video
-A `.mp4` demo is included in the repo showing the dashboard updating with real-time data.
-## 🎥 Demo Video
+A `.mp4` demo is included in the repo showing the dashboard updating with real-time data. I have also attached a couple screenshots here to show what it looks like. You can see that some of the numbers have changed.
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/josephong610/week12assignment/main/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Dashboard1](example1.png)
+![Dashboard2](example2.png)
 
 
 ---
