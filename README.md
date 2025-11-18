@@ -94,6 +94,7 @@ Features:
 
 # Demo Video
 A `.mp4` demo is included in the repo showing the dashboard updating with real-time data.
+https://github.com/josephong610/week12assignment/blob/main/video.mp4
 
 ---
 
