@@ -97,7 +97,7 @@ A `.mp4` demo is included in the repo showing the dashboard updating with real-t
 ## 🎥 Demo Video
 
 <video width="600" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/josephong610/week12assignment/main/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
